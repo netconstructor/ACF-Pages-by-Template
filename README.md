@@ -31,3 +31,6 @@ To do
 --------
 * Create an option to choose all pages
 * Create an option to choose the default template
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/acf-pages-by-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
